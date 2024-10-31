@@ -7,11 +7,6 @@ body {
     padding: 20px;
 }
 
-@font-face {
-    font-family: 'Call Of Ops Duty 2';
-    src: url('tugas koding bebas/font/call-of-ops-duty-ii.otf') format('opentype'); /* Pastikan path menuju font benar */
-}
-
 /* Mengatur overflow header */
 header {
     display: flex;
