@@ -14,7 +14,6 @@ header {
     align-items: center;
     padding: 10px;
     background-color: #FF2C1F;
-    font-family: 'Call Of Ops Duty 2', sans-serif;
     color: white;
     z-index: 1; /* Tambahan untuk memastikan header tetap di atas */
     position: relative;
